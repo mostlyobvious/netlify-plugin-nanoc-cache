@@ -4,4 +4,4 @@ Speed up nanoc builds by retaining previous build output and compilation tempora
 
 ## Install
 
-https://docs.netlify.com/configure-builds/build-plugins/#file-based-installation
+Please consult Netlify [documentation](https://docs.netlify.com/configure-builds/build-plugins/#file-based-installation).
