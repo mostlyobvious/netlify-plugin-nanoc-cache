@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-nanoc-cache",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Netlify Build plugin - Speed up nanoc builds by retaining previous build output and compilation temporary files",
   "main": "src/index.js",
   "files": [
