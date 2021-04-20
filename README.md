@@ -1,10 +1,8 @@
-Netlify Build plugin nanoc-cache - Speed up nanoc builds by retaining previous
-build output and compilation temporary files.
+# netlify-plugin-nanoc-cache
 
-# Install
+Speed up nanoc builds by retaining previous build output and compilation temporary files.
 
-Please install this plugin from the Netlify app.
+## Install
 
-# Configuration
-
-The following `inputs` options are available.
+Consult netlify documentation:
+https://docs.netlify.com/configure-builds/build-plugins/#file-based-installation
